@@ -1,0 +1,9 @@
+Doctor name : sca
+Doctor Surname : casc
+Doctor Date of Birth :Thu Feb 13 00:55:00 IST 66
+Doctor Mobile-Number : 78
+Doctor Medical-License-Number : 4
+Doctor Specialization : cas
+Available Date : 2
+Available Time : 44/55/66
+
